@@ -1,0 +1,4 @@
+opencv-python==4.10.0
+numpy==1.25.2
+matplotlib==3.9.2
+scikit-learn==1.1.3
