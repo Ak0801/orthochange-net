@@ -52,14 +52,17 @@ It leverages:
 
 ---
 
-## 🧰 Dependencies
+## 💡 Applications
 
-- `opencv-python`
-- `numpy`
-- `matplotlib`
-- `scikit-image`
+This pipeline is useful for a wide range of real-world applications:
 
-Install via:
+- 🌆 **Urban Monitoring**: Detect construction, demolition, or expansion in cities.
+- 🌪 **Disaster Assessment**: Compare before-and-after satellite images for floods, earthquakes, or fires.
+- 🌾 **Agricultural Analysis**: Track crop growth, deforestation, or irrigation changes.
+- 🌍 **Environmental Studies**: Monitor land-use changes, water body shifts, or habitat disruption.
+
+
+## 🛠 Requirements
 
 ```bash
-pip install opencv-python numpy matplotlib scikit-image
+pip install -r requirements.txt
