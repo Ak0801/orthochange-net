@@ -17,9 +17,29 @@ It leverages:
 3. **Histogram Matching**: Normalizes lighting/environment differences
 4. **Change Detection**: Outputs binary mask highlighting areas of change
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Satellite_image_example.png/640px-Satellite_image_example.png" width="400" alt="Satellite Example Image"/>
-</p>
+## 📊 Sample Outputs
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="output_images/Figure_2.png" alt="Aligned Image" width="300"/><br/>
+      <b>ECC Aligned Image</b>
+    </td>
+    <td align="center">
+      <img src="output_images/Figure_3.png" alt="Normalized Image" width="300"/><br/>
+      <b>Histogram Normalized</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="output_images/Figure_5.png" alt="Change Mask" width="320"/><br/>
+      <b>Change Detection Mask</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
